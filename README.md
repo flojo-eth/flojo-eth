@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flojo-eth
 - 👀 I’m interested in tech, ai, crypto
-- 🌱 I’m currently learning programming  
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on ai integration projects
 - 📫 flojo_fl
 
